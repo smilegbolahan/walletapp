@@ -126,7 +126,7 @@ STATICFILES_DIRS = [
 ]
 
 
-CSRF_TRUSTED_ORIGINS = ['https://*.installedapp.up.railway.app/', 'https://*.yourdomain.com']
+CSRF_TRUSTED_ORIGINS = ['https://*.walletapp.up.railway.app/', 'https://*.yourdomain.com']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
